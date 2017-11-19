@@ -1,0 +1,20 @@
+{
+  "name": "assignment-graphql-helpers",
+  "version": "1.0.0",
+  "description":
+    "Helpers that create the body of requests to the assignment endpoint",
+  "contributors": [
+    {
+      "name": "Andrew Shapro",
+      "email": "andrew@goslope.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ternpro/assignment-graphql-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ternpro/assignment-graphql-helpers/issues"
+  },
+  "private": true
+}
