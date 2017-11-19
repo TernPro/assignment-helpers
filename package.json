@@ -1,5 +1,5 @@
 {
-  "name": "assignment-graphql-helpers",
+  "name": "assignment-helpers",
   "version": "1.0.0",
   "description":
     "Helpers that create the body of requests to the assignment endpoint",
