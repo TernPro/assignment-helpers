@@ -44,6 +44,12 @@ A failed request can have many errors and will look like this:
 Retrieve a collection by id. All fields of the collection as well as child
 projects, and their child tasks will be provided.
 
+#### getCollections
+
+Retrieve all the collections. All fields of the collection as well as child
+projects, and their child tasks will be provided. In our case, there is only 1
+collection that all projects will be created under.
+
 #### getProject
 
 Retrieve a project by id. All fields of the project as well as the parent
